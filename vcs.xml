@@ -18,6 +18,14 @@
           <option name="url" value="https://github.com/andy120396/412-Scheduler-v2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.azure.com" />
+          <option name="userName" value="akl5294" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://akl5294@dev.azure.com/akl5294/Scheduler/_git/Scheduler" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\andy1\IdeaProjects" />
